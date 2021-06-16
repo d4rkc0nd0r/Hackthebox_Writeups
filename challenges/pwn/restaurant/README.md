@@ -1,2 +1,3 @@
 # Restaurant Writeup
-This exploits spawns a shell locally.
+Local exploit spawns a shell locally.
+Run the remote exploit to get the flag
