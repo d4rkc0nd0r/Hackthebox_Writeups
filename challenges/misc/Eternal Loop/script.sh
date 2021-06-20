@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script breaks at 6969.zip
+# This script breaks at 6969.zip, after which crack this zip file password using john and rockyou.txt as wordlist
 
 filename="$1"
 count=0
