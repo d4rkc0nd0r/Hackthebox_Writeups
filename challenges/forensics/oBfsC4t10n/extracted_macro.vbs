@@ -1,4 +1,5 @@
-' Clean version of macro
+' Default macro is LwTHLrGh.hta which you can find in file section
+' This is the clean version of macro
 
 Private Type PROCESS_INFORMATION
     hProcess As Long
